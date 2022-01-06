@@ -1,0 +1,11 @@
+C:\ITCookbook\ForeachWithVar\bin\Debug\ForeachWithVar.exe.config
+C:\ITCookbook\ForeachWithVar\bin\Debug\ForeachWithVar.exe
+C:\ITCookbook\ForeachWithVar\bin\Debug\ForeachWithVar.pdb
+C:\ITCookbook\ForeachWithVar\obj\Debug\ForeachWithVar.exe
+C:\ITCookbook\ForeachWithVar\obj\Debug\ForeachWithVar.pdb
+C:\Users\tmdej\CS\source\4장\ForeachWithVar\bin\Debug\ForeachWithVar.exe.config
+C:\Users\tmdej\CS\source\4장\ForeachWithVar\bin\Debug\ForeachWithVar.exe
+C:\Users\tmdej\CS\source\4장\ForeachWithVar\bin\Debug\ForeachWithVar.pdb
+C:\Users\tmdej\CS\source\4장\ForeachWithVar\obj\Debug\ForeachWithVar.csproj.CoreCompileInputs.cache
+C:\Users\tmdej\CS\source\4장\ForeachWithVar\obj\Debug\ForeachWithVar.exe
+C:\Users\tmdej\CS\source\4장\ForeachWithVar\obj\Debug\ForeachWithVar.pdb

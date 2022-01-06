@@ -1,0 +1,12 @@
+C:\ITCookbook\코드\4장\Loops\bin\Debug\Loops.exe.config
+C:\ITCookbook\코드\4장\Loops\bin\Debug\Loops.exe
+C:\ITCookbook\코드\4장\Loops\bin\Debug\Loops.pdb
+C:\ITCookbook\코드\4장\Loops\obj\Debug\Loops.exe
+C:\ITCookbook\코드\4장\Loops\obj\Debug\Loops.pdb
+C:\Users\tmdej\CS\source\4장\Loops\bin\Debug\Loops.exe.config
+C:\Users\tmdej\CS\source\4장\Loops\bin\Debug\Loops.exe
+C:\Users\tmdej\CS\source\4장\Loops\bin\Debug\Loops.pdb
+C:\Users\tmdej\CS\source\4장\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\tmdej\CS\source\4장\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\tmdej\CS\source\4장\Loops\obj\Debug\Loops.exe
+C:\Users\tmdej\CS\source\4장\Loops\obj\Debug\Loops.pdb

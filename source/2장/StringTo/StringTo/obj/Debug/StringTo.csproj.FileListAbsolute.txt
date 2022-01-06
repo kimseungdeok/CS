@@ -1,0 +1,12 @@
+C:\ITCookbook\StringTo\StringTo\bin\Debug\StringTo.exe.config
+C:\ITCookbook\StringTo\StringTo\bin\Debug\StringTo.exe
+C:\ITCookbook\StringTo\StringTo\bin\Debug\StringTo.pdb
+C:\ITCookbook\StringTo\StringTo\obj\Debug\StringTo.exe
+C:\ITCookbook\StringTo\StringTo\obj\Debug\StringTo.pdb
+C:\Users\tmdej\CS\source\2장\StringTo\StringTo\bin\Debug\StringTo.exe.config
+C:\Users\tmdej\CS\source\2장\StringTo\StringTo\bin\Debug\StringTo.exe
+C:\Users\tmdej\CS\source\2장\StringTo\StringTo\bin\Debug\StringTo.pdb
+C:\Users\tmdej\CS\source\2장\StringTo\StringTo\obj\Debug\StringTo.csproj.AssemblyReference.cache
+C:\Users\tmdej\CS\source\2장\StringTo\StringTo\obj\Debug\StringTo.csproj.CoreCompileInputs.cache
+C:\Users\tmdej\CS\source\2장\StringTo\StringTo\obj\Debug\StringTo.exe
+C:\Users\tmdej\CS\source\2장\StringTo\StringTo\obj\Debug\StringTo.pdb
