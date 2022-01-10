@@ -1,0 +1,16 @@
+C:\Users\tmdej\CS\InstanceVariables\InstanceVariables\bin\Debug\net5.0\InstanceVariables.exe
+C:\Users\tmdej\CS\InstanceVariables\InstanceVariables\bin\Debug\net5.0\InstanceVariables.deps.json
+C:\Users\tmdej\CS\InstanceVariables\InstanceVariables\bin\Debug\net5.0\InstanceVariables.runtimeconfig.json
+C:\Users\tmdej\CS\InstanceVariables\InstanceVariables\bin\Debug\net5.0\InstanceVariables.runtimeconfig.dev.json
+C:\Users\tmdej\CS\InstanceVariables\InstanceVariables\bin\Debug\net5.0\InstanceVariables.dll
+C:\Users\tmdej\CS\InstanceVariables\InstanceVariables\bin\Debug\net5.0\ref\InstanceVariables.dll
+C:\Users\tmdej\CS\InstanceVariables\InstanceVariables\bin\Debug\net5.0\InstanceVariables.pdb
+C:\Users\tmdej\CS\InstanceVariables\InstanceVariables\obj\Debug\net5.0\InstanceVariables.csproj.AssemblyReference.cache
+C:\Users\tmdej\CS\InstanceVariables\InstanceVariables\obj\Debug\net5.0\InstanceVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmdej\CS\InstanceVariables\InstanceVariables\obj\Debug\net5.0\InstanceVariables.AssemblyInfoInputs.cache
+C:\Users\tmdej\CS\InstanceVariables\InstanceVariables\obj\Debug\net5.0\InstanceVariables.AssemblyInfo.cs
+C:\Users\tmdej\CS\InstanceVariables\InstanceVariables\obj\Debug\net5.0\InstanceVariables.csproj.CoreCompileInputs.cache
+C:\Users\tmdej\CS\InstanceVariables\InstanceVariables\obj\Debug\net5.0\InstanceVariables.dll
+C:\Users\tmdej\CS\InstanceVariables\InstanceVariables\obj\Debug\net5.0\ref\InstanceVariables.dll
+C:\Users\tmdej\CS\InstanceVariables\InstanceVariables\obj\Debug\net5.0\InstanceVariables.pdb
+C:\Users\tmdej\CS\InstanceVariables\InstanceVariables\obj\Debug\net5.0\InstanceVariables.genruntimeconfig.cache

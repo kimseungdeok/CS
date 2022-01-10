@@ -1,0 +1,16 @@
+C:\Users\tmdej\CS\UseClass\UseClass\bin\Debug\net5.0\UseClass.exe
+C:\Users\tmdej\CS\UseClass\UseClass\bin\Debug\net5.0\UseClass.deps.json
+C:\Users\tmdej\CS\UseClass\UseClass\bin\Debug\net5.0\UseClass.runtimeconfig.json
+C:\Users\tmdej\CS\UseClass\UseClass\bin\Debug\net5.0\UseClass.runtimeconfig.dev.json
+C:\Users\tmdej\CS\UseClass\UseClass\bin\Debug\net5.0\UseClass.dll
+C:\Users\tmdej\CS\UseClass\UseClass\bin\Debug\net5.0\ref\UseClass.dll
+C:\Users\tmdej\CS\UseClass\UseClass\bin\Debug\net5.0\UseClass.pdb
+C:\Users\tmdej\CS\UseClass\UseClass\obj\Debug\net5.0\UseClass.csproj.AssemblyReference.cache
+C:\Users\tmdej\CS\UseClass\UseClass\obj\Debug\net5.0\UseClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmdej\CS\UseClass\UseClass\obj\Debug\net5.0\UseClass.AssemblyInfoInputs.cache
+C:\Users\tmdej\CS\UseClass\UseClass\obj\Debug\net5.0\UseClass.AssemblyInfo.cs
+C:\Users\tmdej\CS\UseClass\UseClass\obj\Debug\net5.0\UseClass.csproj.CoreCompileInputs.cache
+C:\Users\tmdej\CS\UseClass\UseClass\obj\Debug\net5.0\UseClass.dll
+C:\Users\tmdej\CS\UseClass\UseClass\obj\Debug\net5.0\ref\UseClass.dll
+C:\Users\tmdej\CS\UseClass\UseClass\obj\Debug\net5.0\UseClass.pdb
+C:\Users\tmdej\CS\UseClass\UseClass\obj\Debug\net5.0\UseClass.genruntimeconfig.cache
