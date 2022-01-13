@@ -1,0 +1,16 @@
+C:\Users\tmdej\CS\ConstructorWithCounter\ConstructorWithCounter\bin\Debug\net5.0\ConstructorWithCounter.exe
+C:\Users\tmdej\CS\ConstructorWithCounter\ConstructorWithCounter\bin\Debug\net5.0\ConstructorWithCounter.deps.json
+C:\Users\tmdej\CS\ConstructorWithCounter\ConstructorWithCounter\bin\Debug\net5.0\ConstructorWithCounter.runtimeconfig.json
+C:\Users\tmdej\CS\ConstructorWithCounter\ConstructorWithCounter\bin\Debug\net5.0\ConstructorWithCounter.runtimeconfig.dev.json
+C:\Users\tmdej\CS\ConstructorWithCounter\ConstructorWithCounter\bin\Debug\net5.0\ConstructorWithCounter.dll
+C:\Users\tmdej\CS\ConstructorWithCounter\ConstructorWithCounter\bin\Debug\net5.0\ref\ConstructorWithCounter.dll
+C:\Users\tmdej\CS\ConstructorWithCounter\ConstructorWithCounter\bin\Debug\net5.0\ConstructorWithCounter.pdb
+C:\Users\tmdej\CS\ConstructorWithCounter\ConstructorWithCounter\obj\Debug\net5.0\ConstructorWithCounter.csproj.AssemblyReference.cache
+C:\Users\tmdej\CS\ConstructorWithCounter\ConstructorWithCounter\obj\Debug\net5.0\ConstructorWithCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmdej\CS\ConstructorWithCounter\ConstructorWithCounter\obj\Debug\net5.0\ConstructorWithCounter.AssemblyInfoInputs.cache
+C:\Users\tmdej\CS\ConstructorWithCounter\ConstructorWithCounter\obj\Debug\net5.0\ConstructorWithCounter.AssemblyInfo.cs
+C:\Users\tmdej\CS\ConstructorWithCounter\ConstructorWithCounter\obj\Debug\net5.0\ConstructorWithCounter.csproj.CoreCompileInputs.cache
+C:\Users\tmdej\CS\ConstructorWithCounter\ConstructorWithCounter\obj\Debug\net5.0\ConstructorWithCounter.dll
+C:\Users\tmdej\CS\ConstructorWithCounter\ConstructorWithCounter\obj\Debug\net5.0\ref\ConstructorWithCounter.dll
+C:\Users\tmdej\CS\ConstructorWithCounter\ConstructorWithCounter\obj\Debug\net5.0\ConstructorWithCounter.pdb
+C:\Users\tmdej\CS\ConstructorWithCounter\ConstructorWithCounter\obj\Debug\net5.0\ConstructorWithCounter.genruntimeconfig.cache

@@ -1,1 +1,8 @@
 C:\ITCookbook\Destructor\bin\Debug\Destructor.exe.config
+C:\Users\tmdej\CS\source\6장\Destructor\bin\Debug\Destructor.exe.config
+C:\Users\tmdej\CS\source\6장\Destructor\bin\Debug\Destructor.exe
+C:\Users\tmdej\CS\source\6장\Destructor\bin\Debug\Destructor.pdb
+C:\Users\tmdej\CS\source\6장\Destructor\obj\Debug\Destructor.csproj.AssemblyReference.cache
+C:\Users\tmdej\CS\source\6장\Destructor\obj\Debug\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\tmdej\CS\source\6장\Destructor\obj\Debug\Destructor.exe
+C:\Users\tmdej\CS\source\6장\Destructor\obj\Debug\Destructor.pdb
