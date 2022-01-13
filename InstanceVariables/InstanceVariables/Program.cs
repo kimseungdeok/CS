@@ -9,6 +9,15 @@ namespace InstanceVariables
             public string name;
             public int price;
         }
+        class Student
+        {
+            public string id;
+            public string name;
+            public int grade;
+            public string major;
+            public DateTime birthday;
+            /* 등등 */
+        }
         static void Main(string[] args)
         {
             /*// 인스턴스를 생성합니다.
