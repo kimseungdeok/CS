@@ -25,10 +25,12 @@ namespace Destructor
             }
         }
 
-
         static void Main(string[] args)
         {
             Product product = new Product("과자", 1000);
+
+            
         }
     }
+            
 }

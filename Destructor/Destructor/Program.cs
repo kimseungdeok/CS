@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Destructor
 {
@@ -26,6 +22,7 @@ namespace Destructor
         static void Main(string[] args)
         {
             Product product = new Product("과자", 1000);
+            
         }
     }
 }

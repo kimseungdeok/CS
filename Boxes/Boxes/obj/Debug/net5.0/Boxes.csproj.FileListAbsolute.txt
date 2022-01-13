@@ -1,0 +1,16 @@
+C:\Users\tmdej\CS\Boxes\Boxes\bin\Debug\net5.0\Boxes.exe
+C:\Users\tmdej\CS\Boxes\Boxes\bin\Debug\net5.0\Boxes.deps.json
+C:\Users\tmdej\CS\Boxes\Boxes\bin\Debug\net5.0\Boxes.runtimeconfig.json
+C:\Users\tmdej\CS\Boxes\Boxes\bin\Debug\net5.0\Boxes.runtimeconfig.dev.json
+C:\Users\tmdej\CS\Boxes\Boxes\bin\Debug\net5.0\Boxes.dll
+C:\Users\tmdej\CS\Boxes\Boxes\bin\Debug\net5.0\ref\Boxes.dll
+C:\Users\tmdej\CS\Boxes\Boxes\bin\Debug\net5.0\Boxes.pdb
+C:\Users\tmdej\CS\Boxes\Boxes\obj\Debug\net5.0\Boxes.csproj.AssemblyReference.cache
+C:\Users\tmdej\CS\Boxes\Boxes\obj\Debug\net5.0\Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmdej\CS\Boxes\Boxes\obj\Debug\net5.0\Boxes.AssemblyInfoInputs.cache
+C:\Users\tmdej\CS\Boxes\Boxes\obj\Debug\net5.0\Boxes.AssemblyInfo.cs
+C:\Users\tmdej\CS\Boxes\Boxes\obj\Debug\net5.0\Boxes.csproj.CoreCompileInputs.cache
+C:\Users\tmdej\CS\Boxes\Boxes\obj\Debug\net5.0\Boxes.dll
+C:\Users\tmdej\CS\Boxes\Boxes\obj\Debug\net5.0\ref\Boxes.dll
+C:\Users\tmdej\CS\Boxes\Boxes\obj\Debug\net5.0\Boxes.pdb
+C:\Users\tmdej\CS\Boxes\Boxes\obj\Debug\net5.0\Boxes.genruntimeconfig.cache
